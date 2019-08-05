@@ -8,6 +8,6 @@ class Anagram
   end
 
   def match(array)
-    
+    anagram_array = []
   end
 end
